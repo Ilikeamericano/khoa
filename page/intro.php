@@ -16,6 +16,7 @@ if (!defined('_GNUBOARD_')) exit; // 개별 페이지 접근 불가
 		세상을 바꾸는 <span class="green">작은</span> 힘
 		<i class="fa fa-quote-right"></i>
 	</h3>
+	<h2>나는 문어</h2>
 
 	<p class="text-center text-muted">
 		가정에 건강과 행복이 가득하기를 기도합니다.
